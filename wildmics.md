@@ -19,7 +19,7 @@ Wer die schönere, detailliertere Variante möchte, nimmt Florian's Veranstaltun
 
 #### Auf dem Android Smartphone
 
-Auf dem Android Smartphone könnt Ihr die App `ICSx5` verwenden; dort abonniert Ihr einfach eine der o.g. Links und fertig. Ihr habt somit die Termine in Eurem Terminkalender.
+Auf dem Android Smartphone könnt Ihr die App `ICSx5` verwenden; dort abonniert Ihr einfach einen der o.g. Links und fertig. Ihr habt somit die Termine in Eurem Terminkalender.
 
 #### Über Home Assistant
 
