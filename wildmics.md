@@ -4,7 +4,7 @@
 
 Ich verpasse **regelmäßig** die Wildmics auf twitch, weshalb ich ein kleines Projekt gestartet habe. Per `API Call` die nächsten Termine von twitch.tv abrufen, diesen Kalender in `Home Assistant` einlesen, und mich benachrichtigen lassen, sobald ein bestimmtes Liveevent stattfindet.
 
-Hierfür gibt es zwei verschiedene Quellen (Stand *06. Juli 2024*):
+Keine Angst, das Ganze funktioniert auch ohne Home Assistant! Zuerst benötigen wir eine gültige `.ics`-Datei. Hierfür gibt es zwei verschiedene Quellen (Stand *06. Juli 2024*):
 
 1. https://api.twitch.tv/helix/schedule/icalendar?broadcaster_id=96555323
 2. https://zeugen-kuehlwaldis.org/veranstaltungstipps.ics
@@ -34,4 +34,5 @@ Da ich kein iPhone benutze, kann ich hier keine Anleitung bereitstellen; wenn je
 ---
 
 **letzte Änderung** *2024-07-06*
-**rev** 0.6
+
+**rev** 0.07
