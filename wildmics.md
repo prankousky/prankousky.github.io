@@ -36,3 +36,4 @@ Da ich kein iPhone benutze, kann ich hier keine Anleitung bereitstellen; wenn je
 ---
 
 **letzte Änderung** *2024-07-06*
+**rev** 0.5
