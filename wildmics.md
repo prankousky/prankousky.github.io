@@ -11,9 +11,9 @@ Keine Angst, das Ganze funktioniert auch ohne Home Assistant! Zuerst benötigen 
 
 Die erste URL beinhaltet automatisch von twitch.tv generierte Daten; diese sind immer aktuell.
 
-Die zweite URL hingegen ist von [Florian Spitzohr](https://zeugen-kuehlwaldis.org); Florian's Kalender wird von Hand aktualisiert und enthält mehr Informationen (bsp. eine Beschreibung, wohingegen der Abruf bei twitch.tv aktuell nur einen Titel generiert); allerdings kann es ~~vermutlich~~ theoretisch mal passieren, dass Florian besseres zu tun hat, krank geworden ist, Urlaub hat, morphogenetische Felder das Erstellen seiner Kalenderdatei blockieren, und, und, und / oder, oder, oder.
+Die zweite URL hingegen ist von [Florian Spitzohr](https://zeugen-kuehlwaldis.org); Florian's Kalender wird von Hand aktualisiert und enthält mehr Informationen (bsp. eine Beschreibung, wohingegen der Abruf bei twitch.tv aktuell nur einen Titel generiert); allerdings kann es natürlich theoretisch mal passieren, dass Florian zum Beispiel Besseres zu tun hat, krank geworden ist, im Urlaub ist, morphogenetische Felder das Erstellen seiner Kalenderdatei blockieren, und, und, und / oder, oder, oder.
 
-Wer die schönere, detailliertere Variante möchte, nimmt Florian's Veranstaltungstipps, wer hingegen immer automatisch die von twitch.tv bereitgestellten Termine haben möchte, nimmt erstere Datei. Die von twitch.tv bereitgestellten Daten basieren auf den vom Wildmics Team dort eingetragenen Daten, daher sollten sie definitiv immer stimmen. Sollten ;-)
+Wer die schönere, detailliertere Variante möchte, nimmt Florian's Veranstaltungstipps, wer hingegen immer automatisch die von twitch.tv bereitgestellten Termine haben möchte, nimmt erstere Datei. Die von twitch.tv bereitgestellten Daten basieren auf den vom Wildmics Team bei Twitch eingetragenen Daten, daher sollten sie definitiv korrekt sein. Sollten ;-)
 
 ## Kalender abonnieren
 
@@ -35,4 +35,4 @@ Da ich kein iPhone benutze, kann ich hier keine Anleitung bereitstellen; wenn je
 
 **letzte Änderung** *2024-07-06*
 
-**rev** 0.07
+**rev** 0.08
