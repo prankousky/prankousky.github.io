@@ -11,7 +11,9 @@ Hierfür gibt es zwei verschiedene Quellen (Stand *06. Juli 2024*):
 1. https://api.twitch.tv/helix/schedule/icalendar?broadcaster_id=96555323
 2. https://zeugen-kuehlwaldis.org/veranstaltungstipps.ics
 
-Die erste URL beinhaltet automatisch von twitch.tv generierte Daten; diese sind immer aktuell. Die zweite URL hingegen ist von [Florian Spitzohr](https://zeugen-kuehlwaldis.org); Florian's Kalender wird von Hand aktualisiert und enthält mehr Informationen (bsp. eine Beschreibung, wohingegen der Abruf bei twitch.tv aktuell nur einen Titel generiert); allerdings kann es vermutlich mal passieren, dass Florian besseres zu tun hat, krank geworden ist, Urlaub hat, morphogenetische Felder das Erstellen seiner Kalenderdatei blockieren, und, und, und / oder, oder, oder.
+Die erste URL beinhaltet automatisch von twitch.tv generierte Daten; diese sind immer aktuell.
+
+Die zweite URL hingegen ist von [Florian Spitzohr](https://zeugen-kuehlwaldis.org); Florian's Kalender wird von Hand aktualisiert und enthält mehr Informationen (bsp. eine Beschreibung, wohingegen der Abruf bei twitch.tv aktuell nur einen Titel generiert); allerdings kann es ~~vermutlich~~ theoretisch mal passieren, dass Florian besseres zu tun hat, krank geworden ist, Urlaub hat, morphogenetische Felder das Erstellen seiner Kalenderdatei blockieren, und, und, und / oder, oder, oder.
 
 Wer die schönere, detailliertere Variante möchte, nimmt Florian's Veranstaltungstipps, wer hingegen immer automatisch die von twitch.tv bereitgestellten Termine haben möchte, nimmt erstere Datei. Die von twitch.tv bereitgestellten Daten basieren auf den vom Wildmics Team dort eingetragenen Daten, daher sollten sie definitiv immer stimmen. Sollten ;-)
 
