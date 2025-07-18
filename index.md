@@ -10,7 +10,7 @@
         font-size: 12pt;
     }
 
-    img {
+    img{
         border-radius: 50%;
     }
 
