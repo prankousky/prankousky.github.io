@@ -2,7 +2,7 @@
 
 <style>
 impr{
-    font-size: 8pt;
+    font-size: 10pt;
     font-style: italic;
 }
 
