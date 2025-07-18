@@ -3,7 +3,7 @@
 Hier gibt es derzeit keine Inhalte.
 
 <center>
-    <img src="assets/img/wuggos.jpg" style="max-width:300px;"/>
+    <img src="assets/img/wuggos.jpg" style="width:300px;"/>
 
 <br>
 <br>
