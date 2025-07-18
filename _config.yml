@@ -15,4 +15,4 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 github:
-  is_project_page: false
+  is_project_page: false  # damit der "view on github" button nicht mehr angezeigt wird.
