@@ -10,6 +10,10 @@ img {
     border-radius: 50%;
 }
 
+h1#benjaminsingelmannnet{
+    visibility: hidden !important;
+}
+
 </style>
 
 <center>
