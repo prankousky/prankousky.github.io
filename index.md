@@ -27,6 +27,7 @@
 
 <div class="center">
 <center>
+<reg>Willkommen auf der Website von Benjamin Singelmann.</reg>
 <reg>Hier gibt es derzeit keine Inhalte.</reg>
 
 <br>
